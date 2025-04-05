@@ -1,3 +1,10 @@
+"""Experiment-8:
+Write a program to implement k-Nearest Neighbor algorithm to
+classify the iris data set. Print both correct and wrong
+predictions."""
+
+
+
 import numpy as np
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
