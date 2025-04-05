@@ -1,3 +1,12 @@
+"""Experiment-4:
+Exercises to solve the real-world problems using the following
+machine learning methods:
+
+ a) Linear Regression
+"""
+
+
+
 import numpy as np, matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
