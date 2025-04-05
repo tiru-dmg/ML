@@ -1,3 +1,13 @@
+"""Experiment-4:
+Exercises to solve the real-world problems using the following
+machine learning methods:
+
+ a) BINARY CLASSIFIERS
+"""
+
+
+
+
 from sklearn.datasets import load_iris
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
