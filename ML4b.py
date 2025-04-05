@@ -1,3 +1,13 @@
+"""Experiment-4:
+Exercises to solve the real-world problems using the following
+machine learning methods:
+
+ a) Logistic Regression
+"""
+
+
+
+
 from sklearn.linear_model import LogisticRegression
 import numpy as np, matplotlib.pyplot as plt
 
