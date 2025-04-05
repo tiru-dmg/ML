@@ -1,3 +1,10 @@
+"""
+Experiment-6:
+Write a program to implement Categorical Encoding, One-hot
+Encoding
+"""
+
+
 import pandas as pd
 from sklearn.preprocessing import OneHotEncoder
 
