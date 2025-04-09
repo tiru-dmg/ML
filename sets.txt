@@ -1,0 +1,68 @@
+Set-1
+ 1) Implement and demonstrate the FIND-S algorithm for finding the most specific  hypothesis based on a given set of training data samples. Read the training data from a  . CSV file. 
+
+2) Develop a program for Bias, Variance, Remove duplicates , Cross Validation 
+ 
+
+Set-2
+1) For a given set of training data examples stored in a .CSV file, implement and demonstrate the Candidate-   
+     Elimination algorithm to output a description of the set of all hypotheses consistent with the training      
+     examples. 
+
+
+Set-3
+1) Write a program to demonstrate the working of the decision tree based ID3 algorithm. Use appropriate data set for building the decision tree and apply this knowledge to classify a new sample. 
+
+2) Write a program to implement Categorical Encoding, One-hot Encoding
+
+
+Set-4
+    1) Exercises to solve the real-world problems using the following machine learning methods:  
+     a) Linear Regression 
+     b) Logistic Regression 
+     
+     
+
+
+Set-5
+    Build an Artificial Neural Network by implementing the Back propagation algorithm and  test the same  
+     using appropriate data sets. 
+
+
+Set-6
+1) Write a program to implement k-Nearest Neighbor algorithm to classify the iris data set. Print both 
+    correct and wrong predictions. 
+2)  Write a program to Implement Support Vector Machines
+
+
+
+Set-7
+  1) Implement the non-parametric Locally Weighted Regression algorithm in order to fit data points. 
+      Select appropriate data set for your experiment and draw graphs 
+ 
+2) Write a program to Implement Principle Component Analysis 
+
+
+
+Set-8
+1) Assuming a set of documents that need to be classified, use the naïve Bayesian Classifier model to 
+    perform this task. Calculate the accuracy, precision, and recall for your data set. 
+2) To solve the real-world problem using the machine learning method  binary Classifier  
+
+
+
+Set-9
+Apply EM algorithm to cluster a Heart Disease Data Set. Use the same data set for clustering using k-Means algorithm. Compare the results of these two algorithms and comment on the quality of clustering. 
+
+
+Set-10
+Exploratory Data Analysis for Classification using Pandas or Matplotlib. 
+
+
+
+ 
+
+
+
+
+
