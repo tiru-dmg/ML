@@ -1,6 +1,6 @@
-/*Experiment-14:
+'''Experiment-14:
 Write a program to Implement Support Vector Machines and Principle
-Component Analysis*/
+Component Analysis'''
 
 import numpy as np, pandas as pd
 from sklearn import svm
