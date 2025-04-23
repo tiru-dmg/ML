@@ -1,3 +1,6 @@
+'''Build an Artificial Neural Network by implementing the Back
+propagation algorithm and test the same using appropriate data
+sets.'''
 from tensorflow.keras import Sequential, Input
 from tensorflow.keras.layers import Dense
 from tensorflow.keras.utils import plot_model
